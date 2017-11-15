@@ -1,0 +1,3 @@
+- [Status](./aiida_status.ipynb)
+- [Workflows](./browse_workflows.ipynb)
+- [Graph Browser](./aiida_graph_browser.ipynb)
