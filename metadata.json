@@ -1,4 +1,6 @@
 {
-    "description": "AiiDA tools",
-    "title": "AiiDA"
+    "description": "Tools to manage AiiDA",
+    "title": "AiiDA Cockpit",
+    "version": "0.0.1",
+    "logo": "miscellaneous/logos/aiida.png"
 }
